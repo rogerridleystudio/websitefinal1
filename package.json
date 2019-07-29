@@ -1,0 +1,13 @@
+{
+  "name": "websitefinal1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "homepage": "https://rogerridleystudio.github.io/mywebsite",
+  "license": "ISC"
+}
